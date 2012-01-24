@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ShelvesActivity!</string>
+    <string name="app_name">Shelves</string>
+    <string name="category_name">Name</string>
+    <string name="category_desc">Description</string>
+    <string name="category_add">Add</string>
+    <string name="subcategory_cat">Category</string>
+    <string name="subcat_sub">Sub-Category</string>
+    <string name="date_ordered">Date Ordered</string>
+    <string name="date_sold">Date Sold</string>
+    <string name="qty_onhand">Qty</string>
+    <string name="btn_save">Save</string>
+
+</resources>
