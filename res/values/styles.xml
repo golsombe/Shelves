@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="tableHeader" parent="android:Widget.TextView">
+        <item name="android:textSize">8pt</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:typeface">sans</item>
+    </style>
+</resources>
